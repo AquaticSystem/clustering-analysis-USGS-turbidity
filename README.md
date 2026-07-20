@@ -14,7 +14,7 @@ This repository contains the data clustering pipeline used to group United State
 - Dr. Wondwosen Seyoum (Department of Geography, Geology, and the Environment, Illinois State University, [ORCID ])
 
 ## Repository structure
-├── data is available at USGS Water quality portal database 
-├── src/ # clustering scripts
-├── requirements.txt
-└── README.md
+- data is available at USGS Water quality portal database 
+- src/ # clustering scripts
+- requirements.txt
+- README.md
