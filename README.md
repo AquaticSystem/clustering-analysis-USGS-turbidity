@@ -1,6 +1,6 @@
 # clustering-analysis-USGS-turbidity
 
-# [Project Name] - Clustering Analysis
+# Project Name: Clustering Analysis Of Diurnal Turbidity Data
 
 Cluster USGS stations based on diurnal turbidity patterns
 
